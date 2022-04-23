@@ -13,4 +13,4 @@ for(var n = 1; n <= numero; n++){
     soma_n = soma(n,soma_n);
 }
 
-console.log(soma_n);
+console.log("O valor sera de: "+soma_n);

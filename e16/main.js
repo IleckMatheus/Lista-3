@@ -10,4 +10,4 @@ function altura(anacleto, centi_ana, felisberto, centi_felis, ano){
 }
 var anacleto = 1.50, centi_ana = 0.02, felisberto = 1.10 ,centi_felis = 0.03;ano = 0;
 ano = altura(anacleto, centi_ana, felisberto, centi_felis, ano);
-console.log(ano);
+console.log("Sera necessário ter: "+ano+" anos");

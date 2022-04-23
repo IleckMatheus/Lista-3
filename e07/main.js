@@ -14,4 +14,4 @@ for(var n = 1; n <= numero; n++){
     multi = fatorial(n,multi);
 }
 
-console.log(multi);
+console.log("O valor sera de: "+multi);
